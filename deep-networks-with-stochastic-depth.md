@@ -2,6 +2,8 @@
 
 Huang, G., Sun, Y., Liu, Z., Sedra, D., & Weinberger, K. Q. (2016, October). Deep networks with stochastic depth. In European conference on computer vision (pp. 646-661). Springer, Cham.
 
+## Paper Summary
+
 The authors propose a dynamic layer skipping scheme for deep neural networks that reduced training time significantly but allows for competitive performance on benchmark tasks.
 
 ## Background and Research Problem
